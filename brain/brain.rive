@@ -1,7 +1,15 @@
 ! version = 2.0
 
 + hello
-- Hello, what is your name?
+- Hello, what is your name!
+
++ how are you
+- I'm well thank you!
+
++ how are you feeling today
+- i am good thank you 
+- not great 
+- really good
 
 + _
 % hello what is your name
@@ -16,6 +24,12 @@
 - Welcome
 - No problem
 - No worries!
+
++ do you have any hobbies 
+- football
+- swimming 
+- horseriding 
+- tennis
 
 + *
 - Sorry did not get what you said
