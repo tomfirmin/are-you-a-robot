@@ -120,6 +120,9 @@
 ! sub :(        = sad
 ! sub :'(       = cry
 ! sub :-[       = shy
+! sub :o        = surprised
+! sub :-o       = surprised
+! sub :0        = surprised
 ! sub :-\       = uncertain
 ! sub :-/       = uncertain
 ! sub :-s       = uncertain
