@@ -30,7 +30,7 @@ body {
 
 .chat {
   background: rgba(128, 120, 120, 0);
-  
+ 
   overflow: scroll;
   height: 90%;
   display: flex;
